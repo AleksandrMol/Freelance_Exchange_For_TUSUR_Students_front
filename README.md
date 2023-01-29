@@ -16,5 +16,3 @@
 - react-i18next (смена языка)
 - [react-hook-form](https://react-hook-form.com/)
 - SCSS
-
-## Чуть позже описание сайта допилю...
